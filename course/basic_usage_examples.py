@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-__author__ = 'wangwenjie'
-__data__ = '2018/5/29 下午5:28'
-__product__ = 'PyCharm'
-__filename__ = 'basic_usage_examples'
 
 
 import tensorflow as tf
